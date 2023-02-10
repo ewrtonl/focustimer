@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align='center'>
-  <img src="./assets/screenshot.png" />
+  <img src="./assets/screenshot.PNG" />
 </h1>
 <h1 align='center'><a href="">See the site</a></h1>
 
